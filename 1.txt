@@ -1,0 +1,88 @@
+
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+ <meta name="view portt" content="width=device-width, initial-scale=1">
+  <title>Product Landing Page</title>
+  <meta name="products" content="Product-Landing-Page">
+  <meta name="Hoda Khosravi" content="landing-page"> 
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans&family=Comfortaa:wght@700&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans&display=swap" rel="stylesheet">
+
+</head>
+  <body>
+    <header id="header">
+      <img src="https://i.postimg.cc/Wp9Ky4Jy/1024px-Logo-virgo.png" id="header-img" >
+  <div class="topnav" id="nav-bar">      
+  <a href="#pricing">Pricing</a>
+  <a href="https://virgostudio.me/contact-us/">Contact</a>
+  <a href="https://virgostudio.me/about-us/">About us</a>
+      </div>
+    </header>
+    
+      
+    
+    <div class="left-side">
+   
+      </div>
+    <div class="main">
+      <div class="email-container">
+     
+        <h2>Start from here</h2>
+      <form id"form" action="#">
+        <input name="email" id="email" type="email" placeholder= "enter your email" required>
+       </form> <br>
+      <button type="submit" id="submit" class="submit-button">
+            Submit 
+          </button><br>
+        </div>
+      <div class="video-description">
+        <h2>let's get some inspiration</h2>
+        </div>
+      <div class="video" id="video">
+        <video width="45%" height="auto" controls>
+  <source src="https://www.youtube.com/watch?v=ilfXjYIMh0k&ab_channel=DIYDanie">
+  
+  Your browser does not support the video tag.
+</video>
+        </div>
+      <div class="pricing-sec">
+      <h2>Pricing & Packages</h2><br>
+      <div class="card1">
+  
+  <h3>Design Plan 1</h3>
+  <p class="price">$20</p>
+  <p>Some text about the jeans. Super slim and comfy lorem ipsum lorem jeansum. Lorem jeamsun denim lorem jeansum.</p>
+  <p><button class="pricing-button">Add to Cart</button></p>
+</div>
+ <div class="card2">
+         <h3>Design Plan 2</h3>
+  <p class="price">$45</p>
+  <p>Some text about the jeans. Super slim and comfy lorem ipsum lorem jeansum. Lorem jeamsun denim lorem jeansum.</p>
+  <p><button class="pricing-button">Add to Cart</button></p>
+</div>
+         <div class="card3">
+         <h3>Design Plan 3</h3>
+  <p class="price">$100</p>
+  <p>Some text about the jeans. Super slim and comfy lorem ipsum lorem jeansum. Lorem jeamsun denim lorem jeansum.</p>
+  <p><button class="pricing-button">Add to Cart</button></p>
+</div>
+        </div>
+        
+      </div>
+    <div class="right-side">
+      
+      </div>
+  
+  <footer>
+   <p> Copyright 2021 | VIRGO </p>
+  </footer>
+  </body>
+</html>
+
